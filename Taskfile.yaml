@@ -1,0 +1,17 @@
+version: 3
+
+includes:
+  cloud: ./ops/taskfile.cloud.yaml
+  local: ./ops/taskfile.local.yaml
+
+tasks:
+  init:
+    desc: initialise local environment
+    cmds:
+      - tfenv pin
+      - task: pre-commit:init
+
+  pre-commit:init:
+    desc: initialises pre-commit hooks
+    cmds:
+      - pre-commit install
