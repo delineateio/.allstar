@@ -1,3 +1,8 @@
 optConfig:
   optOutStrategy: true
+  optOutRepos:
+  - .allstar
+  - .github
+  - hashicorp-terraform-github
+  - oss-template
 action: issue
