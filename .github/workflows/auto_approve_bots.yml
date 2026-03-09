@@ -9,6 +9,6 @@ jobs:
       pull-requests: write
     if: contains(fromJson('["dependabot[bot]", "pre-commit-ci[bot]", "jf-delineate"]'), github.actor)
     steps:
-      - uses: hmarr/auto-approve-action@v3
+      - uses: hmarr/auto-approve-action@44888193675f29a83e04faf4002fa8c0b537b1e4 # v3.2.1
         with:
           review-message: "Auto approved automated PR"

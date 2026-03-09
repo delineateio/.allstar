@@ -14,12 +14,12 @@
   <p align="center">
     GitHub organisation and security policies
     <br />
-    <a href="https://github.com/delineateio/oss-template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/delineateio/.allstar"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/delineateio/oss-template/issues">Report Bug</a>
+    <a href="https://github.com/delineateio/.allstar/issues">Report Bug</a>
     ·
-    <a href="https://github.com/delineateio/oss-template/issues">Request Feature</a>
+    <a href="https://github.com/delineateio/.allstar/issues">Request Feature</a>
   </p>
 </p>
 
@@ -40,7 +40,6 @@
 
 This repo holds the policies used by the OSSF Allstar GitHub app that continuously monitors best practice policies.  For more information review the [Allstar](https://github.com/ossf/allstar) documentation.
 
-This organisation is managed via terraform using the configuration [here](https://github.com/delineateio/hashicorp-terraform-github) so any changes across all repos can be permanently resolved there.
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -73,9 +72,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/delineateio/oss-template.svg?style=for-the-badge&logo=github
-[contributors-url]: https://github.com/delineateio/oss-template/graphs/contributors
-[issues-shield]: https://img.shields.io/github/issues/delineateio/oss-template.svg?style=for-the-badge&logo=github
-[issues-url]: https://github.com/delineateio/oss-template/issues
-[license-shield]: https://img.shields.io/github/license/delineateio/oss-template.svg?style=for-the-badge&logo=github
-[license-url]: https://github.com/delineateio/oss-template/blob/master/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/delineateio/.allstar.svg?style=for-the-badge&logo=github
+[contributors-url]: https://github.com/delineateio/.allstar/graphs/contributors
+[issues-shield]: https://img.shields.io/github/issues/delineateio/.allstar.svg?style=for-the-badge&logo=github
+[issues-url]: https://github.com/delineateio/.allstar/issues
+[license-shield]: https://img.shields.io/github/license/delineateio/.allstar.svg?style=for-the-badge&logo=github
+[license-url]: https://github.com/delineateio/.allstar/blob/master/LICENSE
