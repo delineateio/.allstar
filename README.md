@@ -40,7 +40,6 @@
 
 This repo holds the policies used by the OSSF Allstar GitHub app that continuously monitors best practice policies.  For more information review the [Allstar](https://github.com/ossf/allstar) documentation.
 
-
 <!-- CONTRIBUTING -->
 ## Contributing
 
