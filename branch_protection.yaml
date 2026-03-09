@@ -1,3 +1,9 @@
 optConfig:
   optOutStrategy: true
-action: issue
+action: fix
+requiresStatusChecks: true
+requiresCodeOwnerReviews: true
+requiredStatusCheckContexts: []
+requireUpToDateBranch: true
+enforceAdmins: true
+requireLinearHistory: true
